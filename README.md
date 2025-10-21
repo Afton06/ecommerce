@@ -71,6 +71,7 @@ O projeto será desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 * **[Ronald]** - [ronaldvernek1234@gmail.com]
+* **[Lucas Fernando]** - [luckasfernando500@gmail.com]
