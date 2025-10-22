@@ -1,0 +1,68 @@
+body {
+      background: radial-gradient(circle at top, #0d1117, #161b22 80%);
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      font-family: 'Segoe UI', sans-serif;
+    }
+
+    .card {
+      background: #1c2128;
+      border: 1px solid #00ffae33;
+      box-shadow: 0 0 15px rgba(0, 255, 174, 0.1);
+      border-radius: 15px;
+      width: 100%;
+      max-width: 400px;
+    }
+
+    .card-header img {
+      width: 120px;
+      display: block;
+      margin: 20px auto;
+      filter: drop-shadow(0 0 8px #00ffae88);
+    }
+
+    label {
+      font-weight: 600;
+      color: #b8b8b8;
+    }
+
+    .form-control {
+      background-color: #0d1117;
+      color: #fff;
+      border: 1px solid #00ffae55;
+      border-radius: 10px;
+    }
+
+    .form-control:focus {
+      border-color: #00ffae;
+      box-shadow: 0 0 5px #00ffae;
+      background-color: #0d1117;
+      color: #fff;
+    }
+
+    .btn-login {
+      background-color: #00ffae;
+      border: none;
+      color: #000;
+      font-weight: 700;
+      border-radius: 30px;
+      transition: 0.3s;
+    }
+
+    .btn-login:hover {
+      background-color: #00c98f;
+    }
+
+    .btn-olho {
+      background-color: #00ffae22;
+      border: 1px solid #00ffae55;
+      color: #00ffae;
+    }
+
+    .btn-olho:hover {
+      background-color: #00ffae44;
+      color: #000;
+    }
